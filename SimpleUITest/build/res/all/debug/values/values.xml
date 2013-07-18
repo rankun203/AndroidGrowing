@@ -8,9 +8,9 @@
     <string name="app_name">发送消息</string>
     <string name="button_send">发送</string>
     <string name="edit_message">输入一些消息</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_message">消息内容</string>
 
-    <style name="AppBaseTheme" parent="android:Theme.Black">
+    <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to

@@ -4,6 +4,7 @@
       <root url="jar://$PROJECT_DIR$/EncodeTest/libs/android-support-v4.jar!/" />
       <root url="jar://$PROJECT_DIR$/FlashLight/libs/android-support-v4.jar!/" />
       <root url="jar://$PROJECT_DIR$/SaySomething/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimpleUITest/libs/android-support-v4.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

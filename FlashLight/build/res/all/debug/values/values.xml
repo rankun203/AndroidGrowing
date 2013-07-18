@@ -5,7 +5,8 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
 
     <string name="action_settings">设置</string>
-    <string name="app_name">测试程序</string>
+    <string name="app_name">手电筒</string>
+    <string name="name">*</string>
 
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
