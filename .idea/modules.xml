@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AndroidGrowing.iml" filepath="$PROJECT_DIR$/AndroidGrowing.iml" />
       <module fileurl="file://$PROJECT_DIR$/EncodeTest.iml" filepath="$PROJECT_DIR$/EncodeTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlashLight.iml" filepath="$PROJECT_DIR$/FlashLight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragementsLite.iml" filepath="$PROJECT_DIR$/FragementsLite.iml" />
       <module fileurl="file://$PROJECT_DIR$/SaySomething.iml" filepath="$PROJECT_DIR$/SaySomething.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleUITest.iml" filepath="$PROJECT_DIR$/SimpleUITest.iml" />
     </modules>

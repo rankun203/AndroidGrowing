@@ -1,1 +1,1 @@
-include ':EncodeTest', ':FlashLight', ':SaySomething', ':FindContactAddr', ':SimpleUITest', ':SimpleUITest'
+include ':EncodeTest', ':FlashLight', ':SaySomething', ':FindContactAddr', ':SimpleUITest', ':SimpleUITest', ':FragementsLite'

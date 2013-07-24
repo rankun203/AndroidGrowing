@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name" >发送消息</string>
-    <string name="title_activity_display_message">消息内容</string>
-    <string name="action_settings" >设置</string>
-    <string name="edit_message">输入一些消息</string>
-    <string name="button_send">发送</string>
+    <string name="app_name" >Send Message</string>
+    <string name="title_activity_display_message">Send a Message</string>
+    <string name="action_settings" >Settings</string>
+    <string name="edit_message">Write some message here</string>
+    <string name="button_send">Send</string>
 
 </resources>
