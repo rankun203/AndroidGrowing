@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ForResult</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="qes_">请输入一个问题</string>
+    <string name="clickme_">点我撒</string>
+    <string name="hint2_">输入一个答案</string>
+    <string name="btnCtn2_">返回结果</string>
+    <string name="tv_tip_1_">结果：</string>
+
+</resources>

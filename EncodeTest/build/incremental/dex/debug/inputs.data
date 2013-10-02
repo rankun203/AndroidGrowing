@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1374644643000 697 fb4dc399d308e39b8cd300b482714970b2b6779b /home/mindfine/AndroidStudioProjects/AndroidGrowing/EncodeTest/build/classes/debug/com/mindfine/example/R.class
+1374644643000 349 1429423757a0c2212336a9a6d6a17e32b6470ad2 /home/mindfine/AndroidStudioProjects/AndroidGrowing/EncodeTest/build/classes/debug/com/mindfine/example/BuildConfig.class
+1374644643000 467 04eae55842dbc46d0d6c87b71865731080e92a0d /home/mindfine/AndroidStudioProjects/AndroidGrowing/EncodeTest/build/classes/debug/com/mindfine/example/R$dimen.class
+1374644643000 413 cb474459855f96bb3fa15ba86d11407016a327b4 /home/mindfine/AndroidStudioProjects/AndroidGrowing/EncodeTest/build/classes/debug/com/mindfine/example/R$drawable.class
+1374644643000 394 6dd4a677695e7bdd0c643db663f75e1b0d68c2cf /home/mindfine/AndroidStudioProjects/AndroidGrowing/EncodeTest/build/classes/debug/com/mindfine/example/R$menu.class
+1374644643000 437 6e3c617f0d86ba255faa92ffab69672e57059217 /home/mindfine/AndroidStudioProjects/AndroidGrowing/EncodeTest/build/classes/debug/com/mindfine/example/R$style.class
+1374644643000 918 b611c5d0ac882f49869a5815fb7f46fce513aadd /home/mindfine/AndroidStudioProjects/AndroidGrowing/EncodeTest/build/classes/debug/com/mindfine/example/MainActivity.class
+1374644643000 515 a82feb66b28499236ec3654d91e742205c79f911 /home/mindfine/AndroidStudioProjects/AndroidGrowing/EncodeTest/build/classes/debug/com/mindfine/example/R$string.class
+1374644643000 409 a2fd588d497d23ddc8806420a4af510732ad351c /home/mindfine/AndroidStudioProjects/AndroidGrowing/EncodeTest/build/classes/debug/com/mindfine/example/R$layout.class
+1374644643000 346 40fe735e06189eefaf6dd3330db6264fa138176c /home/mindfine/AndroidStudioProjects/AndroidGrowing/EncodeTest/build/classes/debug/com/mindfine/example/R$attr.class
+1374644643000 428 afb865091fe21d5b09b68b7d55cb7305781332a3 /home/mindfine/AndroidStudioProjects/AndroidGrowing/EncodeTest/build/classes/debug/com/mindfine/example/R$id.class
+1374214059000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/mindfine/AndroidStudioProjects/AndroidGrowing/EncodeTest/libs/android-support-v4.jar

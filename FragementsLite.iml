@@ -10,6 +10,7 @@
         <option name="MANIFEST_FILE_RELATIVE_PATH" value="/FragementsLite/src/main/AndroidManifest.xml" />
         <option name="RES_FOLDER_RELATIVE_PATH" value="/FragementsLite/src/main/res" />
         <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/FragementsLite/src/main/assets" />
+        <option name="PACK_TEST_CODE" value="true" />
       </configuration>
     </facet>
     <facet type="android-gradle" name="Android-Gradle">

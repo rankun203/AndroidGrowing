@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1374214059000 1361 76d146f838f393566fdb0acbbab89e93f6e07db5 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/src/main/res/drawable-mdpi/ic_launcher.png
+1374214059000 713 24f1ab3eedc8be97c2225ecccf57e4a941bc68e6 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/src/main/res/layout/activity_main.xml
+1374218738000 355 d5fc81a41d76817a1d760e478548174b10b75a45 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/src/main/res/values/strings.xml
+1374214059000 367 06321f0db71337ce6e806572f2ef780264e796da /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/src/main/res/values-v14/styles.xml
+1374214059000 5369 913c148973ac8f466c649605445a9a7764b5170c /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/src/main/res/drawable-xxhdpi/ic_launcher.png
+1374214059000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/src/main/res/values/dimens.xml
+1374214059000 348 93cc1c36a8b7234dd93a644bd990ac2bda9eea65 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/src/main/res/values-zh/strings.xml
+1374214059000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/src/main/res/values-sw720dp-land/dimens.xml
+1374214059000 1919 fe65d01f01efea10e184d11d43474d2068f87d20 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/src/main/res/drawable-hdpi/ic_launcher.png
+1374214059000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/src/main/res/menu/main.xml
+1374214059000 336 6f79c232063dce0fbbedf80a42462e0a77eedfe7 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/src/main/res/values-v11/styles.xml
+1374214059000 181 84de2797380184d8b39af6f829afb092fb956173 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/src/main/res/values-sw600dp/dimens.xml
+1374214059000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/src/main/res/values/styles.xml
+1374214059000 3116 86e9a8e3e3a1db7975f4f03f43fc16dc9a5e7eec /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/src/main/res/drawable-xhdpi/ic_launcher.png

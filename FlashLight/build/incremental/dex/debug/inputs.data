@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1374644626000 355 26c3af444762b04fe80a5f680de7dcd88ed641fb /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/build/classes/debug/com/mindfine/flashlight/BuildConfig.class
+1374644626000 727 fc887427ef5434bf9f274d17979a88dadd439a02 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/build/classes/debug/com/mindfine/flashlight/R.class
+1374644626000 827 96ddf0863be70f4973c1291221b248f5274dc52b /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/build/classes/debug/com/mindfine/flashlight/MainActivity.class
+1374644626000 480 b687149de2a4b9d1749a9df441d96c35259d3be6 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/build/classes/debug/com/mindfine/flashlight/R$string.class
+1374644626000 446 09825ac377bd379ff2089056d62301dafeecf2d3 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/build/classes/debug/com/mindfine/flashlight/R$style.class
+1374644626000 355 f1ef5717c643fe754530422b38bbedfbf0416380 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/build/classes/debug/com/mindfine/flashlight/R$attr.class
+1374644626000 422 0aeea90772c4051564fa9d369d4d705fc16cb3e3 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/build/classes/debug/com/mindfine/flashlight/R$drawable.class
+1374644626000 403 9671b2e427ef6036256ca352346be529ed77b55f /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/build/classes/debug/com/mindfine/flashlight/R$menu.class
+1374214059000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/libs/android-support-v4.jar
+1374644626000 418 e5e5c0530139a5fc51933a8127e13c0ef90b2a52 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/build/classes/debug/com/mindfine/flashlight/R$layout.class
+1374644626000 408 e503bcdf8363bae31f4c773fb7acd2058091d752 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/build/classes/debug/com/mindfine/flashlight/R$id.class
+1374644626000 476 ac276a9606c0e050633dc7d6b3b75bea96f0f561 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/build/classes/debug/com/mindfine/flashlight/R$dimen.class

@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1374214186000 361 c3bca3afd635892b33a32d1b303976049ecbfe17 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/build/classes/debug/com/mindfine/simpleuitest/R$attr.class
+1374214186000 583 c85bbaf10ce0fbed76fecc42700a60058d26b42a /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/build/classes/debug/com/mindfine/simpleuitest/R$string.class
+1374214186000 482 39fdcf1b4bb8a7c863fb0119e5e0265bb36e3e2b /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/build/classes/debug/com/mindfine/simpleuitest/R$dimen.class
+1374214186000 1730 7601055db03d2935f42f5b064ce70e538dc2e6b8 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/build/classes/debug/com/mindfine/simpleuitest/MainActivity.class
+1374214186000 359 a63a4ee5407da1ae3fbaeb26912cfcc98e864d55 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/build/classes/debug/com/mindfine/simpleuitest/BuildConfig.class
+1374214059000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/libs/android-support-v4.jar
+1374214186000 450 4b541150336d94a2490b4b2313719eee6411a72c /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/build/classes/debug/com/mindfine/simpleuitest/R$id.class
+1374214186000 452 d888b7d0d478eb847715c218a46c116f64bc3b78 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/build/classes/debug/com/mindfine/simpleuitest/R$style.class
+1374214186000 428 69855405e7ec1f429f6dcb85ff41c51100ae0188 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/build/classes/debug/com/mindfine/simpleuitest/R$drawable.class
+1374214186000 424 255d7b04aea30e2dc8c775072845ed2c5c983970 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/build/classes/debug/com/mindfine/simpleuitest/R$layout.class
+1374214185000 1851 2f9f5f2258f0144a61629bbb0af298467fa398bc /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/build/classes/debug/com/mindfine/simpleuitest/DisplayMessageActivity.class
+1374214186000 409 9e289801fc81bcd9dd340a019e02b57adce59b12 /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/build/classes/debug/com/mindfine/simpleuitest/R$menu.class
+1374214186000 747 7ca909af819eefc534210ff3fc3b9310521b0f4b /home/mindfine/AndroidStudioProjects/AndroidGrowing/SimpleUITest/build/classes/debug/com/mindfine/simpleuitest/R.class

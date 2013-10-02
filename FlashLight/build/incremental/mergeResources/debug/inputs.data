@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1374214059000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/src/main/res/values-sw720dp-land/dimens.xml
+1374214059000 181 84de2797380184d8b39af6f829afb092fb956173 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/src/main/res/values-sw600dp/dimens.xml
+1374214059000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/src/main/res/menu/main.xml
+1374214059000 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/src/main/res/values-v11/styles.xml
+1374214059000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/src/main/res/values/styles.xml
+1374214059000 390 a556148b66359e94f7ccde75022d7b2b489d8164 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/src/main/res/values-v14/styles.xml
+1374214059000 201 0cf1e570e6499d40b14f0e08348b7db2bc4bab70 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/src/main/res/values/strings.xml
+1374214059000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/src/main/res/values/dimens.xml
+1374214059000 548 1bdc9e38f78a3124777b797c6304a48542395ab3 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/src/main/res/layout/activity_main.xml
+1374214059000 1793 7b8e5d461aeb1fcfd48d331444db3352439202c7 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/src/main/res/drawable-mdpi/ic_launcher.png
+1374214059000 4838 e33cecafa61b45a98e068f4077de3a77b171ccf0 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/src/main/res/drawable-xhdpi/ic_launcher.png
+1374214059000 8838 7f52afcf381901a19814b98ec0d744c87e8f7895 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/src/main/res/drawable-xxhdpi/ic_launcher.png
+1374214059000 3072 f8e5350a967e3a6197a49a53993e0bbd7d3b89c9 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FlashLight/src/main/res/drawable-hdpi/ic_launcher.png

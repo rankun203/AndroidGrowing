@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IntentClipboard</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mainEditTextHint_">输入一些东西</string>
+    <string name="clickMe_">点我</string>
+
+</resources>

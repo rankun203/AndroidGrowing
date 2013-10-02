@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1374651060000 2256 32c76b81e71a2dec57737d962ed2932617cb35c3 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/MainActivity.class
+1374550682000 343 4a89d5da1f9f8623c4b8cf0e30d587363d9306b5 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/BuildConfig.class
+1374648783000 437 034063ffb42f0462f781864e35efb2e568836c7f /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/R$layout.class
+1374648783000 385 af7a3a51adc970a23b01ee1dac8083f423d40681 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/R$menu.class
+1374648783000 428 1cb6ff4d8bb15bec321311490c3fa8cda4c9fb56 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/R$style.class
+1374648783000 545 4594a59dd86402350a148c99c196d21d995b8f82 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/R$id.class
+1374550682000 404 bb65d643cbe322753515c6b3247ddfc29510670d /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/R$drawable.class
+1374649097000 1678 31730405d199636a19cc3f4fa0e3c91603712cdf /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/HeadlinesFragment.class
+1374652261000 1966 07dcf9452aefd01b6821bd676fef1dbdc269cbc5 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/ArticleFragment.class
+1374648783000 469 0124331cfb6eba58ecfb6acfa4334f26ab6fa3aa /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/R$string.class
+1374648783000 290 1350b91e5379d4176c4a6a3421d5fdac83a13a83 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/HeadlinesFragment$OnHeadlineSelectedListener.class
+1374648783000 667 fca9b6aa669945e12877f39ddf8219adfd2766e3 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/R.class
+1374550682000 337 f338b893349b1aca36b2c3b279779853df6dcd63 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/R$attr.class
+1374550540000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/libs/android-support-v4.jar
+1374917745000 356 ccda6d6357e4c24743fb28c7243713786f15fa3a /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/Testup.class
+1374550682000 458 f7cb63e80928a6c8c5b53b72edbaf1fa1037f287 /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/R$dimen.class
+1374719390000 961 2b885875928bc3668d8cf4e0e9bd66a229e3eebd /home/mindfine/AndroidStudioProjects/AndroidGrowing/FragementsLite/build/classes/debug/com/mindfine/test/Txts.class
